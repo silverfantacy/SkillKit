@@ -1,0 +1,15 @@
+.spectra/
+openspec/
+CLAUDE.md
+AGENTS.md
+.build/
+.openclaw-tmp/
+.worktrees/
+dist/
+.DS_Store
+.agents/
+.claude/
+index.html
+main.js
+mockService.js
+styles.css
